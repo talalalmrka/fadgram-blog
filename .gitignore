@@ -3,3 +3,4 @@
 /node_modules
 /vendor
 /public/uploads
+/storage/app/public/*
