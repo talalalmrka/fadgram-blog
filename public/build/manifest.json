@@ -1,0 +1,71 @@
+{
+  "node_modules/intl-tel-input/build/img/flags.webp": {
+    "file": "assets/flags-a2kmUSbF.webp",
+    "src": "node_modules/intl-tel-input/build/img/flags.webp"
+  },
+  "node_modules/intl-tel-input/build/img/flags@2x.webp": {
+    "file": "assets/flags@2x-gR6KPp3x.webp",
+    "src": "node_modules/intl-tel-input/build/img/flags@2x.webp"
+  },
+  "node_modules/intl-tel-input/build/img/globe.webp": {
+    "file": "assets/globe-CKC-qWvL.webp",
+    "src": "node_modules/intl-tel-input/build/img/globe.webp"
+  },
+  "node_modules/intl-tel-input/build/img/globe@2x.webp": {
+    "file": "assets/globe@2x-CEs4Xftd.webp",
+    "src": "node_modules/intl-tel-input/build/img/globe@2x.webp"
+  },
+  "node_modules/intl-tel-input/build/js/utils.js": {
+    "file": "assets/utils-BvbkBfLj.js",
+    "name": "utils",
+    "src": "node_modules/intl-tel-input/build/js/utils.js",
+    "isDynamicEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Xaw6OIO1.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/intl-tel-input.js": {
+    "file": "assets/intl-tel-input-DA1PnIVv.js",
+    "name": "intl-tel-input",
+    "src": "resources/js/intl-tel-input.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/intl-tel-input/build/js/utils.js"
+    ]
+  },
+  "resources/js/jodit.js": {
+    "file": "assets/jodit-BuGwfOQK.js",
+    "name": "jodit",
+    "src": "resources/js/jodit.js",
+    "isEntry": true
+  },
+  "resources/js/pdf.js": {
+    "file": "assets/pdf-l0sNRNKZ.js",
+    "name": "pdf",
+    "src": "resources/js/pdf.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-By4PDY7C.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  },
+  "resources/sass/intl-tel-input.scss": {
+    "file": "assets/intl-tel-input-BRnRjoYq.css",
+    "src": "resources/sass/intl-tel-input.scss",
+    "isEntry": true
+  },
+  "resources/sass/jodit.scss": {
+    "file": "assets/jodit-D-3XHKAK.css",
+    "src": "resources/sass/jodit.scss",
+    "isEntry": true
+  },
+  "resources/sass/pdf.scss": {
+    "file": "assets/pdf-DPj-gghY.css",
+    "src": "resources/sass/pdf.scss",
+    "isEntry": true
+  }
+}

@@ -1,0 +1,5 @@
+@layer components {
+    .shadow-hover {
+        @apply shadow-none hover:shadow transition-shadow duration-300;
+    }
+}
