@@ -4,3 +4,4 @@
 /vendor
 /public/uploads
 /storage/app/public/*
+/public/hot
